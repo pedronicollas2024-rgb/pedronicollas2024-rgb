@@ -1,7 +1,11 @@
 # 👨‍💻 Pedro Nicollas
-**`Desenvolvedor Baxk-End`**
+**`Estudante de ADS | Faculdade Impacta`**
 
-Me chamo Pedro Nicollas, tenho 18 anos e sou de São Paulo. Concluí o ensino médio e atualmente estou cursando o técnico em Informática pelo Senac. Durante minha trajetória, tive dúvidas sobre qual área profissional seguir, mas ao ter contato com a programação, descobri uma área pela qual me apaixonei e sigo me dedicando constantemente.
+Me chamo Pedro Nicollas, tenho 18 anos e sou de São Paulo. Concluí o ensino médio e o técnico em Informática pelo Senac, onde tive meu primeiro contato com programação — foi ali que descobri uma área pela qual me apaixonei.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta, aprofundando conhecimentos em C#, SQL Server, APIs e Entity Framework. Documento minha trajetória de estudos no GitHub, com exercícios e projetos de cada disciplina do curso.
+
+Buscando oportunidades para aplicar o que venho aprendendo na prática.
 
 <p align="left">
     <a href="https://github.com/pedronicollas?tab=repositories&sort=stargazers">
